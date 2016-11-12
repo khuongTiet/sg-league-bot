@@ -11,5 +11,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "khuong tiet",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khuongTiet/sg-league-bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "league",
+    "of",
+    "legends",
+    "bot",
+    "discord"
+  ],
+  "bugs": {
+    "url": "https://github.com/khuongTiet/sg-league-bot/issues"
+  },
+  "homepage": "https://github.com/khuongTiet/sg-league-bot#readme"
 }
