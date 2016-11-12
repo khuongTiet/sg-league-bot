@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@solomid/node-gg",
+        "scope": "@solomid",
+        "escapedName": "@solomid%2fnode-gg",
+        "name": "@solomid/node-gg",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\User\\Desktop\\sg-league-bot"
+    ]
+  ],
+  "_from": "@solomid/node-gg@latest",
+  "_id": "@solomid/node-gg@2.0.0",
+  "_inCache": true,
+  "_location": "/@solomid/node-gg",
+  "_nodeVersion": "6.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/node-gg-2.0.0.tgz_1467800845715_0.8852466298267245"
+  },
+  "_npmUser": {
+    "name": "pradyuman",
+    "email": "pradyumanvig@outlook.com"
+  },
+  "_npmVersion": "3.9.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@solomid/node-gg",
+    "scope": "@solomid",
+    "escapedName": "@solomid%2fnode-gg",
+    "name": "@solomid/node-gg",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@solomid/node-gg/-/node-gg-2.0.0.tgz",
+  "_shasum": "98247304a3a09d43278a637542a580ce0cf451c8",
+  "_shrinkwrap": null,
+  "_spec": "@solomid/node-gg",
+  "_where": "C:\\Users\\User\\Desktop\\sg-league-bot",
+  "author": {
+    "name": "Pradyuman Vig"
+  },
+  "bugs": {
+    "url": "https://github.com/solomidnet/championgg-api-node/issues"
+  },
+  "dependencies": {},
+  "description": "Node.js Client for champion.gg API",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "98247304a3a09d43278a637542a580ce0cf451c8",
+    "tarball": "https://registry.npmjs.org/@solomid/node-gg/-/node-gg-2.0.0.tgz"
+  },
+  "gitHead": "5f9c35b111442e4b222ec1c0fdab7c0fdb4d35ae",
+  "homepage": "https://github.com/solomidnet/championgg-api-node#readme",
+  "keywords": [
+    "lol",
+    "championgg",
+    "http",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "abaltra",
+      "email": "abaltra@gmail.com"
+    },
+    {
+      "name": "pfugate",
+      "email": "phil.fugate@gmail.com"
+    },
+    {
+      "name": "pradyuman",
+      "email": "pradyumanvig@outlook.com"
+    },
+    {
+      "name": "solomidcorp",
+      "email": "dan@solomid.net"
+    }
+  ],
+  "name": "@solomid/node-gg",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solomidnet/championgg-api-node.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "2.0.0"
+}
