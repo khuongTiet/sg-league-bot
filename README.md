@@ -8,6 +8,10 @@
   * Bans
   * Summoner Spells
   * Masteries
+  * Regular chatting capabilites
+
+3. Clean up repository / actual code
+
   
   
 #### Discord Chat Bot for the Salami Grill Server written in JavaScript
